@@ -30,7 +30,7 @@ int main(void)
 	_printf("Unsigned hexadecimal:[%x, %X]\n", ui, ui);
 	printf("Unsigned hexadecimal:[%x, %X]\n", ui, ui);
 	printf("Character:[%c]\n", 'H');
-	  printf("Character:[%c]\n", 'H');
+	printf("Character:[%c]\n", 'H');
 	_printf("String:[%s]\n", "I am a string !");
 	printf("String:[%s]\n", "I am a string !");
 	printf("Address:[%p]\n", addr);
